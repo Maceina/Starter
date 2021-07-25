@@ -1,0 +1,12 @@
+$color: green;
+$size: 50px;
+body{
+    background-color: $color;
+}
+h1{
+    background-color: $color;
+    font-size: $size;
+    line-height: $size;
+    width: $size;
+    height: $size;
+}

@@ -1,2 +1,1 @@
-# Starter
-Typescript and scss starter kit.
+# typescript and scss starter pack
